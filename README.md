@@ -4,7 +4,7 @@
 ***Team LORAverse** Rank 377 / 82,787+ Participants (Top 0.5%)*
 **Team Members**
 - [Soham Tanaji Umbare](https://github.com/theSohamTUmbare)
-- Kaustubh Deshmukh
+- [Kaustubh Deshmukh](https://github.com/kaustubhdeshmukh11)
 - [Ashutosh Kumar](https://github.com/AshutoshKumar1007)
 - Nikhil Nagar
 
@@ -105,4 +105,4 @@ final_price = expm1(final_pred_log)
 
 > This project was developed for the **Amazon ML Challenge 2025**
 
-* **Team:** [Soham T. Umbare](https://github.com/theSohamTUmbare), Kaustubh Deshmukh, Nikhil Nagar, [Ashutosh Kumar](https://github.com/AshutoshKumar1007).
+* **Team:** [Soham T. Umbare](https://github.com/theSohamTUmbare), [Kaustubh Deshmukh](https://github.com/kaustubhdeshmukh11), Nikhil Nagar, [Ashutosh Kumar](https://github.com/AshutoshKumar1007).
